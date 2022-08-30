@@ -1,0 +1,503 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//HLTV//EN
+VERSION:2.0
+BEGIN:VEVENT
+UID:2357693
+DTSTART:20220831
+SUMMARY:07:30 | ★★ | Natus Vincere vs. Spirit
+DESCRIPTION:Natus Vincere vs. Spirit
+LOCATION:https://www.hltv.org/matches/2357693/natus-vincere-vs-spirit-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357694
+DTSTART:20220831
+SUMMARY:11:00 | ★ | Vitality vs. Endpoint
+DESCRIPTION:Vitality vs. Endpoint
+LOCATION:https://www.hltv.org/matches/2357694/vitality-vs-endpoint-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357695
+DTSTART:20220831
+SUMMARY:14:30 | ★ | Ninjas in Pyjamas vs. fnatic
+DESCRIPTION:Ninjas in Pyjamas vs. fnatic
+LOCATION:https://www.hltv.org/matches/2357695/ninjas-in-pyjamas-vs-fnatic-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357696
+DTSTART:20220901
+SUMMARY:07:30 | ★ | Spirit vs. Endpoint
+DESCRIPTION:Spirit vs. Endpoint
+LOCATION:https://www.hltv.org/matches/2357696/spirit-vs-endpoint-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357697
+DTSTART:20220901
+SUMMARY:11:00 | ★ | Natus Vincere vs. fnatic
+DESCRIPTION:Natus Vincere vs. fnatic
+LOCATION:https://www.hltv.org/matches/2357697/natus-vincere-vs-fnatic-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357698
+DTSTART:20220901
+SUMMARY:14:30 | ★★★ | Ninjas in Pyjamas vs. Vitality
+DESCRIPTION:Ninjas in Pyjamas vs. Vitality
+LOCATION:https://www.hltv.org/matches/2357698/ninjas-in-pyjamas-vs-vitality-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357699
+DTSTART:20220902
+SUMMARY:07:30 | ★ | Natus Vincere vs. Endpoint
+DESCRIPTION:Natus Vincere vs. Endpoint
+LOCATION:https://www.hltv.org/matches/2357699/natus-vincere-vs-endpoint-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357700
+DTSTART:20220902
+SUMMARY:11:00 | ★★ | Ninjas in Pyjamas vs. Spirit
+DESCRIPTION:Ninjas in Pyjamas vs. Spirit
+LOCATION:https://www.hltv.org/matches/2357700/ninjas-in-pyjamas-vs-spirit-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357701
+DTSTART:20220902
+SUMMARY:14:30 | ★ | Vitality vs. fnatic
+DESCRIPTION:Vitality vs. fnatic
+LOCATION:https://www.hltv.org/matches/2357701/vitality-vs-fnatic-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357702
+DTSTART:20220903
+SUMMARY:07:30 | ★ | Ninjas in Pyjamas vs. Endpoint
+DESCRIPTION:Ninjas in Pyjamas vs. Endpoint
+LOCATION:https://www.hltv.org/matches/2357702/ninjas-in-pyjamas-vs-endpoint-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357703
+DTSTART:20220903
+SUMMARY:11:00 | ★ | fnatic vs. Spirit
+DESCRIPTION:fnatic vs. Spirit
+LOCATION:https://www.hltv.org/matches/2357703/fnatic-vs-spirit-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357704
+DTSTART:20220903
+SUMMARY:14:30 | ★★★ | Natus Vincere vs. Vitality
+DESCRIPTION:Natus Vincere vs. Vitality
+LOCATION:https://www.hltv.org/matches/2357704/natus-vincere-vs-vitality-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357705
+DTSTART:20220904
+SUMMARY:14:30 | ★★★ | Natus Vincere vs. Ninjas in Pyjamas
+DESCRIPTION:Natus Vincere vs. Ninjas in Pyjamas
+LOCATION:https://www.hltv.org/matches/2357705/natus-vincere-vs-ninjas-in-pyjamas-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357706
+DTSTART:20220904
+SUMMARY:14:30 | ★★ | Vitality vs. Spirit
+DESCRIPTION:Vitality vs. Spirit
+LOCATION:https://www.hltv.org/matches/2357706/vitality-vs-spirit-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357707
+DTSTART:20220904
+SUMMARY:14:30 | ★ | fnatic vs. Endpoint
+DESCRIPTION:fnatic vs. Endpoint
+LOCATION:https://www.hltv.org/matches/2357707/fnatic-vs-endpoint-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357708
+DTSTART:20220907
+SUMMARY:07:30 | ★ | FaZe vs. FTW
+DESCRIPTION:FaZe vs. FTW
+LOCATION:https://www.hltv.org/matches/2357708/faze-vs-ftw-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357709
+DTSTART:20220907
+SUMMARY:11:00 | ★★ | Outsiders vs. BIG
+DESCRIPTION:Outsiders vs. BIG
+LOCATION:https://www.hltv.org/matches/2357709/outsiders-vs-big-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357710
+DTSTART:20220907
+SUMMARY:14:30 | ★ | G2 vs. MIBR
+DESCRIPTION:G2 vs. MIBR
+LOCATION:https://www.hltv.org/matches/2357710/g2-vs-mibr-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357711
+DTSTART:20220908
+SUMMARY:07:30 | ★ | Outsiders vs. FTW
+DESCRIPTION:Outsiders vs. FTW
+LOCATION:https://www.hltv.org/matches/2357711/outsiders-vs-ftw-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357712
+DTSTART:20220908
+SUMMARY:11:00 | ★★ | G2 vs. BIG
+DESCRIPTION:G2 vs. BIG
+LOCATION:https://www.hltv.org/matches/2357712/g2-vs-big-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357713
+DTSTART:20220908
+SUMMARY:14:30 | ★ | FaZe vs. MIBR
+DESCRIPTION:FaZe vs. MIBR
+LOCATION:https://www.hltv.org/matches/2357713/faze-vs-mibr-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357714
+DTSTART:20220909
+SUMMARY:07:30 | ★ | G2 vs. FTW
+DESCRIPTION:G2 vs. FTW
+LOCATION:https://www.hltv.org/matches/2357714/g2-vs-ftw-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357715
+DTSTART:20220909
+SUMMARY:11:00 | ★ | BIG vs. MIBR
+DESCRIPTION:BIG vs. MIBR
+LOCATION:https://www.hltv.org/matches/2357715/big-vs-mibr-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357716
+DTSTART:20220909
+SUMMARY:14:30 | ★★ | FaZe vs. Outsiders
+DESCRIPTION:FaZe vs. Outsiders
+LOCATION:https://www.hltv.org/matches/2357716/faze-vs-outsiders-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357717
+DTSTART:20220910
+SUMMARY:07:30 | ★ | BIG vs. FTW
+DESCRIPTION:BIG vs. FTW
+LOCATION:https://www.hltv.org/matches/2357717/big-vs-ftw-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357718
+DTSTART:20220910
+SUMMARY:11:00 | ★ | Outsiders vs. MIBR
+DESCRIPTION:Outsiders vs. MIBR
+LOCATION:https://www.hltv.org/matches/2357718/outsiders-vs-mibr-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357719
+DTSTART:20220910
+SUMMARY:14:30 | ★★★ | FaZe vs. G2
+DESCRIPTION:FaZe vs. G2
+LOCATION:https://www.hltv.org/matches/2357719/faze-vs-g2-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357720
+DTSTART:20220911
+SUMMARY:14:30 | ★ | MIBR vs. FTW
+DESCRIPTION:MIBR vs. FTW
+LOCATION:https://www.hltv.org/matches/2357720/mibr-vs-ftw-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357721
+DTSTART:20220911
+SUMMARY:14:30 | ★★ | G2 vs. Outsiders
+DESCRIPTION:G2 vs. Outsiders
+LOCATION:https://www.hltv.org/matches/2357721/g2-vs-outsiders-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357722
+DTSTART:20220911
+SUMMARY:14:30 | ★★ | FaZe vs. BIG
+DESCRIPTION:FaZe vs. BIG
+LOCATION:https://www.hltv.org/matches/2357722/faze-vs-big-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357723
+DTSTART:20220914
+SUMMARY:07:30 | ★★ | MOUZ vs. Heroic
+DESCRIPTION:MOUZ vs. Heroic
+LOCATION:https://www.hltv.org/matches/2357723/mouz-vs-heroic-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357724
+DTSTART:20220914
+SUMMARY:11:00 | ★ | Complexity vs. Astralis
+DESCRIPTION:Complexity vs. Astralis
+LOCATION:https://www.hltv.org/matches/2357724/complexity-vs-astralis-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357725
+DTSTART:20220914
+SUMMARY:14:30 | ★ | ENCE vs. HEET
+DESCRIPTION:ENCE vs. HEET
+LOCATION:https://www.hltv.org/matches/2357725/ence-vs-heet-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357726
+DTSTART:20220915
+SUMMARY:07:30 | ★★ | Astralis vs. MOUZ
+DESCRIPTION:Astralis vs. MOUZ
+LOCATION:https://www.hltv.org/matches/2357726/astralis-vs-mouz-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357727
+DTSTART:20220915
+SUMMARY:11:00 | ★ | Complexity vs. HEET
+DESCRIPTION:Complexity vs. HEET
+LOCATION:https://www.hltv.org/matches/2357727/complexity-vs-heet-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357728
+DTSTART:20220915
+SUMMARY:14:30 | ★★ | ENCE vs. Heroic
+DESCRIPTION:ENCE vs. Heroic
+LOCATION:https://www.hltv.org/matches/2357728/ence-vs-heroic-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357729
+DTSTART:20220916
+SUMMARY:07:30 | ★ | Astralis vs. HEET
+DESCRIPTION:Astralis vs. HEET
+LOCATION:https://www.hltv.org/matches/2357729/astralis-vs-heet-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357730
+DTSTART:20220916
+SUMMARY:11:00 | ★ | Heroic vs. Complexity
+DESCRIPTION:Heroic vs. Complexity
+LOCATION:https://www.hltv.org/matches/2357730/heroic-vs-complexity-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357731
+DTSTART:20220916
+SUMMARY:14:30 | ★★ | ENCE vs. MOUZ
+DESCRIPTION:ENCE vs. MOUZ
+LOCATION:https://www.hltv.org/matches/2357731/ence-vs-mouz-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357732
+DTSTART:20220917
+SUMMARY:07:30 | ★ | Heroic vs. HEET
+DESCRIPTION:Heroic vs. HEET
+LOCATION:https://www.hltv.org/matches/2357732/heroic-vs-heet-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357733
+DTSTART:20220917
+SUMMARY:11:00 | ★ | Complexity vs. MOUZ
+DESCRIPTION:Complexity vs. MOUZ
+LOCATION:https://www.hltv.org/matches/2357733/complexity-vs-mouz-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357734
+DTSTART:20220917
+SUMMARY:14:30 | ★★ | ENCE vs. Astralis
+DESCRIPTION:ENCE vs. Astralis
+LOCATION:https://www.hltv.org/matches/2357734/ence-vs-astralis-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357735
+DTSTART:20220918
+SUMMARY:14:30 | ★★ | Heroic vs. Astralis
+DESCRIPTION:Heroic vs. Astralis
+LOCATION:https://www.hltv.org/matches/2357735/heroic-vs-astralis-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357736
+DTSTART:20220918
+SUMMARY:14:30 | ★ | ENCE vs. Complexity
+DESCRIPTION:ENCE vs. Complexity
+LOCATION:https://www.hltv.org/matches/2357736/ence-vs-complexity-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357737
+DTSTART:20220918
+SUMMARY:14:30 | ★ | MOUZ vs. HEET
+DESCRIPTION:MOUZ vs. HEET
+LOCATION:https://www.hltv.org/matches/2357737/mouz-vs-heet-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357738
+DTSTART:20220921
+SUMMARY:07:30 | ★ | Cloud9 vs. Evil Geniuses
+DESCRIPTION:Cloud9 vs. Evil Geniuses
+LOCATION:https://www.hltv.org/matches/2357738/cloud9-vs-evil-geniuses-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357739
+DTSTART:20220921
+SUMMARY:11:00 | ★ | Eternal Fire vs. FURIA
+DESCRIPTION:Eternal Fire vs. FURIA
+LOCATION:https://www.hltv.org/matches/2357739/eternal-fire-vs-furia-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357740
+DTSTART:20220921
+SUMMARY:14:30 | ★★★ | Liquid vs. Movistar Riders
+DESCRIPTION:Liquid vs. Movistar Riders
+LOCATION:https://www.hltv.org/matches/2357740/liquid-vs-movistar-riders-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357741
+DTSTART:20220922
+SUMMARY:07:30 | ★ | Cloud9 vs. Eternal Fire
+DESCRIPTION:Cloud9 vs. Eternal Fire
+LOCATION:https://www.hltv.org/matches/2357741/cloud9-vs-eternal-fire-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357742
+DTSTART:20220922
+SUMMARY:11:00 | ★★ | Movistar Riders vs. FURIA
+DESCRIPTION:Movistar Riders vs. FURIA
+LOCATION:https://www.hltv.org/matches/2357742/movistar-riders-vs-furia-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357743
+DTSTART:20220922
+SUMMARY:14:30 | ★ | Liquid vs. Evil Geniuses
+DESCRIPTION:Liquid vs. Evil Geniuses
+LOCATION:https://www.hltv.org/matches/2357743/liquid-vs-evil-geniuses-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357744
+DTSTART:20220923
+SUMMARY:07:30 | ★★★ | Cloud9 vs. Movistar Riders
+DESCRIPTION:Cloud9 vs. Movistar Riders
+LOCATION:https://www.hltv.org/matches/2357744/cloud9-vs-movistar-riders-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357745
+DTSTART:20220923
+SUMMARY:11:00 | ★ | Eternal Fire vs. Evil Geniuses
+DESCRIPTION:Eternal Fire vs. Evil Geniuses
+LOCATION:https://www.hltv.org/matches/2357745/eternal-fire-vs-evil-geniuses-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357746
+DTSTART:20220923
+SUMMARY:14:30 | ★★ | Liquid vs. FURIA
+DESCRIPTION:Liquid vs. FURIA
+LOCATION:https://www.hltv.org/matches/2357746/liquid-vs-furia-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357747
+DTSTART:20220924
+SUMMARY:07:30 | ★ | Movistar Riders vs. Evil Geniuses
+DESCRIPTION:Movistar Riders vs. Evil Geniuses
+LOCATION:https://www.hltv.org/matches/2357747/movistar-riders-vs-evil-geniuses-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357748
+DTSTART:20220924
+SUMMARY:11:00 | ★ | Liquid vs. Eternal Fire
+DESCRIPTION:Liquid vs. Eternal Fire
+LOCATION:https://www.hltv.org/matches/2357748/liquid-vs-eternal-fire-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357749
+DTSTART:20220924
+SUMMARY:14:30 | ★★ | Cloud9 vs. FURIA
+DESCRIPTION:Cloud9 vs. FURIA
+LOCATION:https://www.hltv.org/matches/2357749/cloud9-vs-furia-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357750
+DTSTART:20220925
+SUMMARY:14:30 | ★★★★ | Cloud9 vs. Liquid
+DESCRIPTION:Cloud9 vs. Liquid
+LOCATION:https://www.hltv.org/matches/2357750/cloud9-vs-liquid-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357751
+DTSTART:20220925
+SUMMARY:14:30 | ★ | Movistar Riders vs. Eternal Fire
+DESCRIPTION:Movistar Riders vs. Eternal Fire
+LOCATION:https://www.hltv.org/matches/2357751/movistar-riders-vs-eternal-fire-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2357752
+DTSTART:20220925
+SUMMARY:14:30 | ★ | FURIA vs. Evil Geniuses
+DESCRIPTION:FURIA vs. Evil Geniuses
+LOCATION:https://www.hltv.org/matches/2357752/furia-vs-evil-geniuses-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2358325
+DTSTART:20220927
+SUMMARY:10:30 | ★★ | ESL Pro League Season 16 - Playoffs Round 1 #1
+DESCRIPTION:ESL Pro League Season 16 - Playoffs Round 1 #1
+LOCATION:https://www.hltv.org/matches/2358325/esl-pro-league-season-16-playoffs-round-1-1-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2358326
+DTSTART:20220927
+SUMMARY:14:00 | ★★ | ESL Pro League Season 16 - Playoffs Round 1 #2
+DESCRIPTION:ESL Pro League Season 16 - Playoffs Round 1 #2
+LOCATION:https://www.hltv.org/matches/2358326/esl-pro-league-season-16-playoffs-round-1-2-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2358327
+DTSTART:20220928
+SUMMARY:10:30 | ★★ | ESL Pro League Season 16 - Playoffs Round 1 #3
+DESCRIPTION:ESL Pro League Season 16 - Playoffs Round 1 #3
+LOCATION:https://www.hltv.org/matches/2358327/esl-pro-league-season-16-playoffs-round-1-3-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2358328
+DTSTART:20220928
+SUMMARY:14:00 | ★★ | ESL Pro League Season 16 - Playoffs Round 1 #4
+DESCRIPTION:ESL Pro League Season 16 - Playoffs Round 1 #4
+LOCATION:https://www.hltv.org/matches/2358328/esl-pro-league-season-16-playoffs-round-1-4-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2358330
+DTSTART:20220929
+SUMMARY:10:30 | ★★★ | ESL Pro League Season 16 - Quarter-final #2
+DESCRIPTION:ESL Pro League Season 16 - Quarter-final #2
+LOCATION:https://www.hltv.org/matches/2358330/esl-pro-league-season-16-quarter-final-2-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2358329
+DTSTART:20220929
+SUMMARY:14:00 | ★★★ | ESL Pro League Season 16 - Quarter-final #1
+DESCRIPTION:ESL Pro League Season 16 - Quarter-final #1
+LOCATION:https://www.hltv.org/matches/2358329/esl-pro-league-season-16-quarter-final-1-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2358331
+DTSTART:20220930
+SUMMARY:10:30 | ★★★ | ESL Pro League Season 16 - Quarter-final #3
+DESCRIPTION:ESL Pro League Season 16 - Quarter-final #3
+LOCATION:https://www.hltv.org/matches/2358331/esl-pro-league-season-16-quarter-final-3-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2358332
+DTSTART:20220930
+SUMMARY:14:00 | ★★★ | ESL Pro League Season 16 - Quarter-final #4
+DESCRIPTION:ESL Pro League Season 16 - Quarter-final #4
+LOCATION:https://www.hltv.org/matches/2358332/esl-pro-league-season-16-quarter-final-4-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2358333
+DTSTART:20221001
+SUMMARY:10:30 | ★★★★ | ESL Pro League Season 16 - Semi-final #1
+DESCRIPTION:ESL Pro League Season 16 - Semi-final #1
+LOCATION:https://www.hltv.org/matches/2358333/esl-pro-league-season-16-semi-final-1-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2358334
+DTSTART:20221001
+SUMMARY:14:00 | ★★★★ | ESL Pro League Season 16 - Semi-final #2
+DESCRIPTION:ESL Pro League Season 16 - Semi-final #2
+LOCATION:https://www.hltv.org/matches/2358334/esl-pro-league-season-16-semi-final-2-esl-pro-league-season-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2358335
+DTSTART:20221002
+SUMMARY:12:00 | ★★★★★ | ESL Pro League Season 16 - Grand Final
+DESCRIPTION:ESL Pro League Season 16 - Grand Final
+LOCATION:https://www.hltv.org/matches/2358335/esl-pro-league-season-16-grand-final-esl-pro-league-season-16
+END:VEVENT
+END:VCALENDAR
