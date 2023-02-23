@@ -40,7 +40,7 @@ function getEvents() {
       if (dayEvents[j].getElementsByClassName("matchInfoEmpty").length > 0) {
         matchTitle = dayEvents[j].getElementsByClassName("matchInfoEmpty")[0].innerText;
       } else {
-        matchTitle = dayEvents[j].getElementsByClassName("team1")[0].innerText + ' vs. ' + dayEvents[j].getElementsByClassName("team2")[0].innerText;
+        matchTitle = dayEvents[j].getElementsByClassName("team1")[0].innerText + ' vs. ' + dayEvents[j].getElementsByClassName("team2")[0].innerText + ' | ' + method;
       }
 
       events.push({date: eventDate, stars, method, uri, matchTitle, time});
