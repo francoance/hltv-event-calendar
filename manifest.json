@@ -2,7 +2,7 @@
 
     "manifest_version": 2,
     "name": "HltvEventCalendar",
-    "version": "1.0",
+    "version": "1.1",
   
     "description": "Add a button to the event page on HLTV to download an ICS file that contains all the matches.",
   

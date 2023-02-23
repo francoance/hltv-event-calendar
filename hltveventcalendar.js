@@ -32,14 +32,18 @@ function getEvents() {
     let dayEvents = eventDays[i].getElementsByClassName("upcomingMatch");
 
     for(let j = 0; j < dayEvents.length; j++){
-      if (dayEvents[j].getElementsByClassName("matchInfoEmpty").length > 0) continue;
       let stars = dayEvents[j].getAttribute("stars");
-      let method = dayEvents[j].getElementsByClassName("matchMeta")[0].innerText;
       let uri = dayEvents[j].getElementsByClassName("match")[0].getAttribute("href");
-      let teamA = dayEvents[j].getElementsByClassName("team1")[0].innerText;
-      let teamB = dayEvents[j].getElementsByClassName("team2")[0].innerText;
+      let method = dayEvents[j].getElementsByClassName("matchMeta")[0].innerText;
       let time = dayEvents[j].getElementsByClassName("matchTime")[0].innerText;
-      events.push({date: eventDate, stars, method, uri, teamA, teamB, time});
+      let matchTitle = '';
+      if (dayEvents[j].getElementsByClassName("matchInfoEmpty").length > 0) {
+        matchTitle = dayEvents[j].getElementsByClassName("matchInfoEmpty")[0].innerText;
+      } else {
+        matchTitle = dayEvents[j].getElementsByClassName("team1")[0].innerText + ' vs. ' + dayEvents[j].getElementsByClassName("team2")[0].innerText;
+      }
+
+      events.push({date: eventDate, stars, method, uri, matchTitle, time});
     }
   }
 
@@ -58,17 +62,17 @@ function getEventCalendarText(ev, fullDayEvent){
 
   if (fullDayEvent) {
     eventText+=`DTSTART:${ev.date.replace(/-/g, "")}\n`+
-               `SUMMARY:${ev.time} | ${starsText} | ${ev.teamA} vs ${ev.teamB}\n`;
+               `SUMMARY:${ev.time} | ${starsText} | ${ev.matchTitle}\n`;
   } else {
     let startDate = new Date(`${ev.date} ${ev.time}`);
     let endDate = new Date(startDate);
-    endDate.setTime(endDate.getTime() + parseInt(ev.method[2])*0.75*60*60000);
+    endDate.setTime(endDate.getTime() + parseInt(ev.method[2])*60*60000);
     eventText+=`DTSTART:${startDate.toISOString().replace(/-/g, "").replace(/:/g, "").replace(/\./g, "")}\n`+
                `DTEND:${endDate.toISOString().replace(/-/g, "").replace(/:/g, "").replace(/\./g, "")}\n`+
-               `SUMMARY:${starsText} | ${ev.teamA} vs ${ev.teamB}\n`;
+               `SUMMARY:${starsText} | ${ev.matchTitle}\n`;
   }
 
-  eventText+=`DESCRIPTION:${ev.teamA} vs ${ev.teamB}\n`+
+  eventText+=`DESCRIPTION:${ev.matchTitle}\n`+
              `LOCATION:${hltvBaseUri}${ev.uri}\n`+
              'END:VEVENT\n';
 
